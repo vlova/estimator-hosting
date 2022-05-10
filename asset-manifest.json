@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.cdba3167.css",
-    "main.js": "/static/js/main.2046d5ae.js",
-    "static/js/977.8be63c46.chunk.js": "/static/js/977.8be63c46.chunk.js",
-    "static/js/27.f0cb6bbf.chunk.js": "/static/js/27.f0cb6bbf.chunk.js",
-    "index.html": "/index.html"
+    "main.css": "/estimator-hosting/static/css/main.cdba3167.css",
+    "main.js": "/estimator-hosting/static/js/main.ef2e877c.js",
+    "static/js/977.3bf9e714.chunk.js": "/estimator-hosting/static/js/977.3bf9e714.chunk.js",
+    "static/js/27.f0cb6bbf.chunk.js": "/estimator-hosting/static/js/27.f0cb6bbf.chunk.js",
+    "index.html": "/estimator-hosting/index.html"
   },
   "entrypoints": [
     "static/css/main.cdba3167.css",
-    "static/js/main.2046d5ae.js"
+    "static/js/main.ef2e877c.js"
   ]
 }
