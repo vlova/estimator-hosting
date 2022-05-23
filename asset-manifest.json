@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/estimator-hosting/static/css/main.6d108d60.css",
-    "main.js": "/estimator-hosting/static/js/main.7b0acd29.js",
+    "main.js": "/estimator-hosting/static/js/main.99568a0b.js",
     "static/js/977.7caa6690.chunk.js": "/estimator-hosting/static/js/977.7caa6690.chunk.js",
     "static/js/27.f0cb6bbf.chunk.js": "/estimator-hosting/static/js/27.f0cb6bbf.chunk.js",
     "index.html": "/estimator-hosting/index.html"
   },
   "entrypoints": [
     "static/css/main.6d108d60.css",
-    "static/js/main.7b0acd29.js"
+    "static/js/main.99568a0b.js"
   ]
 }
